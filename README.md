@@ -8,6 +8,9 @@
     <a href="https://github.com/EliseBriers/Software-Raytracer/actions/workflows/msbuild.yml">
         <img src="https://github.com/EliseBriers/Software-Raytracer/actions/workflows/msbuild.yml/badge.svg">
     </a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+    </a>
 </p>
 
 ***
